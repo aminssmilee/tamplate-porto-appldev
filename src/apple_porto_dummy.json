@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Website e-commerce Khairin Hijab",
+    "year": "2026",
+    "role": "Fullstack Developer",
+    "link": "https://khairinhijab.my.id",
+    "description": "Khairin Hijab is an e-commerce website designed to help users to purchase hijab online. The core problem addressed was the lack of actionable insights for individuals wanting to reduce their environmental impact. By utilizing CoreMotion and HealthKit, the app automatically tracks transportation methods. The design process involved extensive user interviews to ensure the gamification elements were genuinely motivating rather than intrusive.",
+    "imageUrl": "https://placehold.co/800x600/e5e5e5/333333?text=EcoTrack+App+Screenshot"
+  },
+  {
+    "id": 2,
+    "title": "Ticketing System PSN (Pasifik Satelit Nusantara)",
+    "year": "2025",
+    "role": "Fullstack Developer",
+    "link": "https://dev-ticket.psn.co.id/login",
+    "description": "A centralized dashboard for managing IoT devices across a home network. The challenge was unifying disparate APIs from various manufacturers (Philips Hue, Nest, Ring) into a single, cohesive user experience. Research involved understanding cognitive load in complex interfaces, leading to a highly modular widget-based design. The solution significantly reduced the time users spent switching between different proprietary apps.",
+    "imageUrl": "https://placehold.co/800x600/e5e5e5/333333?text=SmartHome+Dashboard"
+  },
+  {
+    "id": 3,
+    "title": "Website Shae Academy",
+    "year": "2026",
+    "role": "Fullstack Developer",
+    "link": "https://shaeacademy.id",
+    "description": "Shae Academy is a website designed to help users to learn about AI. The core problem addressed was the lack of actionable insights for individuals wanting to reduce their environmental impact. By utilizing CoreMotion and HealthKit, the app automatically tracks transportation methods. The design process involved extensive user interviews to ensure the gamification elements were genuinely motivating rather than intrusive.",
+    "imageUrl": "/storage/appledevimg/shaeacademy.png"
+  },
+  {
+    "id": 4,
+    "title": "socio ",
+    "year": "2022",
+    "role": "iOS Engineer",
+    "link": "https://testflight.apple.com/join/example",
+    "description": "A companion app for the Apple Watch that provides real-time posture correction alerts. We identified a gap in existing health apps that monitored posture but didn't provide immediate, haptic feedback. The engineering research focused on optimizing battery life while keeping the accelerometer active. The resulting algorithm effectively filtered out normal movement noise to only alert on sustained poor posture.",
+    "imageUrl": "https://placehold.co/800x600/e5e5e5/333333?text=HealthSync+WatchOS"
+  },
+  {
+    "id": 5,
+    "title": "Website E-commerce Aminlabs",
+    "year": "2025",
+    "role": "Fullstack Developer",
+    "link": "https://aminlabsofc.teamwebcareind.my.id",
+    "description": "An augmented reality experience allowing users to place and scale classical artwork within their own space. The problem was democratizing access to fine art. We used ARKit 6 to ensure realistic lighting and occlusion. The research involved studying how light interacts with different textures (oil paint vs. watercolor) to render them convincingly in a 3D space, solving the 'uncanny valley' effect common in early AR art apps.",
+    "imageUrl": "https://placehold.co/800x600/e5e5e5/333333?text=Lumina+AR+Gallery"
+  }
+]
