@@ -248,7 +248,7 @@ const PortoAppleDev = () => {
               <p className="text-gray-500 text-[12px] mt-1 leading-tight">
                 +62 831-1124-7317<br />
                 salisahamd48@gmail.com<br />
-                <a href="https://www.linkedin.com/in/salisahmaddd/" target="_blank" className="text-blue-500 hover:underline text-[13px] leading-tight block break-all">linkedin.com/in/salisahmaddd</a>
+                <a href="https://www.linkedin.com/in/salisahmaddd/" target="_blank" rel="noreferrer" className="text-blue-500 hover:underline text-[13px] leading-tight block break-all">linkedin.com/in/salisahmaddd</a>
               </p>
             </div>
             <div>
